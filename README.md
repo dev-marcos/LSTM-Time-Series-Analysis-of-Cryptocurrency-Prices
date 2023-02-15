@@ -1,6 +1,9 @@
 # Previsão do valor futuro do BTC usando LSTM
 Este projeto é um modelo de previsão de valor futuro do Bitcoin usando a técnica de Long Short-Term Memory (LSTM) em Python. O objetivo é utilizar dados históricos para prever o valor futuro do BTC.
 
+
+<img src="https://images2.imgbox.com/06/e3/SQmmzCL9_o.jpg"/>
+
 ## Pré-requisitos
 Antes de executar o código, você precisará instalar as seguintes bibliotecas:
 
